@@ -1,0 +1,15 @@
+# app
+sqlalchemy
+flask
+psycopg2-binary
+requests
+html5lib
+bs4
+lxml
+bpython
+tk
+
+# tests
+pytest
+pytest-icdiff
+mypy
